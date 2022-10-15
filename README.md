@@ -11,7 +11,7 @@
 
 <h3 align="left">My Resume :</h3>
 <p align="left">
-     <a href="https://drive.google.com/file/d/1nPnjpGsKfdjNfhtn-C_nzfp9Qx06pZNF/view?usp=sharing" target="blank"><img
+     <a href="https://drive.google.com/file/d/1nPnjpGsKfdjNfhtn-C_nzfp9Qx06pZNF/view?usp=sharing" target="blank" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"
                alt="resume" height="30" width="40" title="Resume" /></a>

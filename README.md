@@ -45,9 +45,6 @@
      <a href="mailto:vipulkindarkhediya1204@gmail.com" target="blank"><img align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
                alt="Email" height="30" width="40" title="Email" /></a><br><br>
-     <a href="tel:919979220622" target="blank"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/team.svg"
-               alt="Mobile" height="30" width="40" title="Mobile" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

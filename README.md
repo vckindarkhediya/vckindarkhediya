@@ -2,7 +2,7 @@
      alt="" width="100%">
 <h1 align="center">I'm Vipul Kindarkhediya</h1>
 <h3 align="center">Back-end developer from India</h3>
-<img width="400" align="right" src="vip.jpg" alt="Coding"><br><br>
+<img width="400" align="right" src="vip.jpg" alt="Coding">
 <p align="left"> <img
           src="https://komarev.com/ghpvc/?username=vckindarkhediya&label=Profile%20views&color=0e75b6&style=flat"
           alt="vckindarkhediya" /> </p>

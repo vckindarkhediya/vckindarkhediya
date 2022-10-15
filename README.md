@@ -38,7 +38,7 @@
                alt="Instagram" height="30" width="40" title="Instagram" /></a>
      <a href="https://join.skype.com/invite/vdzXJz6Lil03" target="blank"><img align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg"
-               alt="skype" height="30" width="40" title="skype" /></a>
+               alt="skype" height="30" width="40" title="skype" /></a><br><br>
      <a href="Whatsapp:8980324272" target="blank"><img align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
                alt="Whatsapp" height="30" width="40" title="Whatsapp" /></a>

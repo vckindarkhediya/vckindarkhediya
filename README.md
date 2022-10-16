@@ -9,7 +9,7 @@
 
 
 
-<h3 align="left">My Resume :</h3>
+<h3 align="left">My Resume ( C.V. ) :</h3>
 <p align="left">
      <a href="https://drive.google.com/file/d/1nPnjpGsKfdjNfhtn-C_nzfp9Qx06pZNF/view?usp=sharing" target="blank" target="blank"><img
                align="center"

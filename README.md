@@ -19,9 +19,7 @@
 <h3 align="left">Connect with me :</h3>
 <p align="left">
     
-     <a href="https://github.com/vckindarkhediya" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-               alt="Github" height="30" width="40" title="Github" /></a>
+    </p>
     
 
 

@@ -18,33 +18,11 @@
 </p>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-     <a href="https://www.linkedin.com/in/vipul-kindarkhediya-63853b21b/" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-               alt="Linkedin" height="30" width="40" title="Linkedin" /></a>
+    
      <a href="https://github.com/vckindarkhediya" target="blank" rel="noreferrer"><img align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                alt="Github" height="30" width="40" title="Github" /></a>
-     <a href="https://twitter.com/vipul_ck" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-               alt="Twitter" height="30" width="40" title="Twitter" /></a>
-     <a href="https://www.youtube.com/channel/UCkyP7kXwXMtSjF4yBOlVdJw" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
-               alt="Youtube" height="30" width="40" title="Youtube" /></a>
-     <a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-               alt=Facebook" height="30" width="40" title="Facebook" /></a>
-     <a href="https://www.instagram.com/vc.kindarkhediya/" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-               alt="Instagram" height="30" width="40" title="Instagram" /></a>
-     <a href="https://join.skype.com/invite/vdzXJz6Lil03" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg"
-               alt="skype" height="30" width="40" title="skype" /></a>
-     <a href="Whatsapp:8980324272" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-               alt="Whatsapp" height="30" width="40" title="Whatsapp" /></a>
-     <a href="mailto:vipulkindarkhediya1204@gmail.com" target="blank" rel="noreferrer"><img align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/vk.svg"
-               alt="Email" height="30" width="40" title="Email" /></a><br><br>
+    
 </p>
 
 <h3 align="left">Languages and Tools :</h3>

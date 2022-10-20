@@ -18,7 +18,8 @@
 </p>
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://github.com/vckindarkhediya" target="blank"><img
+<a href="https:https://vckindarkhediya.github.io/
+" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
                alt="https://www.linkedin.com/in/vipul-kindarkhediya-63853b21b/" height="30" width="40" /></a>    

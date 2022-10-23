@@ -22,7 +22,12 @@
 " target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-               alt="https://www.linkedin.com/in/vipul-kindarkhediya-63853b21b/" height="30" width="40" /></a>    
+               alt="Resume" title="Resume" height="30" width="40" /></a>    
+<a href="https://vckindarkhediya.github.io/
+" target="blank"><img
+               align="center"
+               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg"
+               alt="Facebook" title="Facebook" height="30" width="40" /></a>    
 </p>
     
 

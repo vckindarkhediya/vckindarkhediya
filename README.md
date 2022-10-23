@@ -26,7 +26,7 @@
 <a href="https://vckindarkhediya.github.io/
 " target="blank"><img
                align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook-alt.svg"
+               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                alt="Facebook" title="Facebook" height="30" width="40" /></a>    
 </p>
     

@@ -22,7 +22,7 @@
 " target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-               alt="My Profile" title="Resume" height="30" width="40" /></a>    
+               alt="my profile" title="My Profile" height="30" width="40" /></a>    
 <a href="https://vckindarkhediya.github.io/
 " target="blank"><img
                align="center"

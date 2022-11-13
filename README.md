@@ -47,10 +47,6 @@
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg"
                alt="Snapchat" title="Snapchat" height="30" width="40" /></a>
-<a href="tel:919979220622" target="blank"><img
-               align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
-               alt="WhatsApp" title="WhatsApp" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCkyP7kXwXMtSjF4yBOlVdJw" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"

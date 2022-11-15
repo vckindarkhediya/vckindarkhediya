@@ -22,15 +22,15 @@
 " target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg"
-               alt="my profile" title="My Profile" height="30" width="40" /></a>    
+               alt="vckindarkhediya" title="vckindarkhediya" height="30" width="40" /></a>    
 <a href="https://twitter.com/vipul_ck" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-               alt="Twitter" title="Twitter" height="30" width="40" /></a>  
+               alt="Twitter" title="vipul_ck" height="30" width="40" /></a>  
 <a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-               alt="Facebook" title="Vc Kindarkhediya" height="30" width="40" /></a>    
+               alt="Facebook" title="Facebook" height="30" width="40" /></a>    
 <a href="https://www.instagram.com/vc.kindarkhediya/" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"

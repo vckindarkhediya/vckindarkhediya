@@ -46,7 +46,7 @@
 <a href="https://www.snapchat.com/add/iamvpl?share_id=7DbsbHQbFE4&locale=en-IN" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg"
-               alt="Snapchat" title="Snapchat" height="30" width="40" /></a>
+               alt="Snapchat" title="iamvpl" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCkyP7kXwXMtSjF4yBOlVdJw" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"

@@ -38,7 +38,7 @@
 <a href="https://in.linkedin.com/in/vipul-kindarkhediya-63853b21b?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-               alt="Linkedin" title="Linkedin" height="30" width="40" /></a> 
+               alt="Linkedin" title="Vipul Kindarkhediya" height="30" width="40" /></a> 
 <a href="https://join.skype.com/invite/vdzXJz6Lil03" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg"

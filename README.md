@@ -81,10 +81,10 @@
                alt="MongoDB" width="40" height="40" /> </a> -->
      <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img
                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"
-               alt="laravel" width="40" height="40"  /> </a>
+               alt="laravel" title="Laravel" width="40" height="40"  /> </a>
      <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img
                src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-               alt="linux" width="40" height="40" /> </a>
+               alt="Linux" title="Linux" width="40" height="40" /> </a>
 <!--       <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
       <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
       <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>

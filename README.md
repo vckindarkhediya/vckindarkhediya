@@ -11,7 +11,7 @@
 
 <h3 align="left">My Resume ( C.V. ) :</h3>
 <p align="left">
-     <a href="https://drive.google.com/file/d/1QKTXvnqrzuUtSVCjNlurydCThkRyMHSX/view?usp=sharing" target="blank"
+     <a href="https://drive.google.com/file/d/1_DFbhPwDyE5vuEb38QzOZgd23ilKhLYC/view" target="_blank"
           target="blank"><img align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"
                alt="resume" height="30" width="40" title="Curriculum vitae" /></a>

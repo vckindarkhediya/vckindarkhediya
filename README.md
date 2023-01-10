@@ -29,7 +29,7 @@
                alt="Twitter" title="Twitter" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/20973220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20973220" height="30" width="40" /></a>
      
-<a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank"><img
+  <a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
                alt="Facebook" title="Facebook" height="30" width="40" /></a>    

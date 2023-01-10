@@ -28,11 +28,11 @@
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
                alt="Twitter" title="Twitter" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/20973220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20973220" height="30" width="40" /></a>
-<!-- <a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank"><img
+<a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-               alt="Facebook" title="Facebook" height="30" width="40" /></a>     -->
-<!-- <a href="https://www.instagram.com/vc.kindarkhediya/" target="blank"><img
+               alt="Facebook" title="Facebook" height="30" width="40" /></a>    
+ <a href="https://www.instagram.com/vipul_kindarkhediya/" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                alt="Instagram" title="Instagram" height="30" width="40" /></a>  -->
@@ -40,14 +40,7 @@
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
                alt="Linkedin" title="Linkedin" height="30" width="40" /></a> 
-<!-- <a href="https://join.skype.com/invite/vdzXJz6Lil03" target="blank"><img
-               align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg"
-               alt="Skype" title="Skype" height="30" width="40" /></a> 
-<a href="https://www.snapchat.com/add/iamvpl?share_id=7DbsbHQbFE4&locale=en-IN" target="blank"><img
-               align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/snapchat.svg"
-               alt="Snapchat" title="Snapchat" height="30" width="40" /></a>
+     
 <a href="https://www.youtube.com/channel/UCkyP7kXwXMtSjF4yBOlVdJw" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"

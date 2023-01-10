@@ -11,7 +11,7 @@
 
 <h3 align="left">My Resume ( C.V. ) :</h3>
 <p align="left">
-     <a href="vckindarkhediya.githubio" target="_blank"
+     <a href="https://vckindarkhediya.github.io/" target="_blank"
           target="blank"><img align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google.svg"
                alt="resume" height="30" width="40" title="Curriculum vitae" /></a>

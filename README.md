@@ -29,11 +29,6 @@
                alt="Twitter" title="Twitter" height="30" width="40" /></a>  
 <a href="https://stackoverflow.com/users/20973220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20973220" height="30" width="40" /></a>
      
-<a href="https://in.linkedin.com/in/vipul-kindarkhediya-63853b21b?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img
-               align="center"
-               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-               alt="Linkedin" title="Linkedin" height="30" width="40" /></a> 
-     
 <a href="https://www.facebook.com/profile.php?id=100087059130693" target="blank"><img
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
@@ -42,6 +37,10 @@
                align="center"
                src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
                alt="Instagram" title="Instagram" height="30" width="40" /></a> 
+  <a href="https://in.linkedin.com/in/vipul-kindarkhediya-63853b21b?original_referer=https%3A%2F%2Fwww.google.com%2F" target="blank"><img
+               align="center"
+               src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+               alt="Linkedin" title="Linkedin" height="30" width="40" /></a> 
 
      
 <!-- <a href="https://www.youtube.com/channel/UCkyP7kXwXMtSjF4yBOlVdJw" target="blank"><img

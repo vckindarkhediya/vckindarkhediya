@@ -10,7 +10,7 @@
           alt="vckindarkhediya" /> </p>
 
 
-<h4>I'm a self-taught passionate Laravel developer from India india.</h4>
+<p>Hi, i'm <a href="https://vckindarkhediya.github.io/"> Vipul Kindarkhediya</a>, a passionate self-taught Laravel developer from india.</p>
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
